@@ -5,6 +5,7 @@ Live Demo: https://sultanbadri.github.io/restaurant-page/
 
 ### Features:
  * Responsive design
+ * Navigation Tabs
 
 ### Built with: 
  * HTML
