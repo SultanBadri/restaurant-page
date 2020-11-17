@@ -1,10 +1,10 @@
 const renderContactPage = (() => {
   //container
   const contentContainer = document.querySelector("#content");
-    const contact = document.createElement("div");
-    contact.setAttribute("id", "contact");
-    contact.setAttribute("data-tab-content", "");
-    contact.innerHTML = `
+  const contact = document.createElement("div");
+  contact.setAttribute("id", "contact");
+  contact.setAttribute("data-tab-content", "");
+  contact.innerHTML = `
     <div class="hero">
     <h1>Contact us</h1>
   </div>
